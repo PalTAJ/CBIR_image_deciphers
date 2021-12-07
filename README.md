@@ -5,7 +5,6 @@ this is the first step of a larger project to simulate a search engine with larg
 this current version provide the ability to:
 
 1- index all images with the algorithm of choice
-
 2- query the indexies for a matching image
 
 
