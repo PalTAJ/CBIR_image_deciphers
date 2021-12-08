@@ -17,7 +17,7 @@ HOG | :white_check_mark:
 SIFT | :white_check_mark:
 SURF |  :white_check_mark:
 pHash |  :white_check_mark:
-Transfer Learning CNNs | :no_entry:
+Transfer Learning CNNs |  :white_check_mark:
 
 
 
